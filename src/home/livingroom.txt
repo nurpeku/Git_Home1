@@ -1,0 +1,6 @@
+coach
+table
+chair
+tv
+plant
+carpet
