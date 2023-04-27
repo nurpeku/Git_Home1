@@ -5,3 +5,7 @@ coffe machine
 oven
 pan
 shelf
+spoon
+table clothes
+glass
+cup
