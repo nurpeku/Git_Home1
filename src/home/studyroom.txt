@@ -1,0 +1,6 @@
+book
+pencil
+notebook
+computer
+desk
+
